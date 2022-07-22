@@ -1,4 +1,4 @@
-Projeto base para aplicações **React + TypeScript + Tailwind**.
+Projeto base para aplicações **React, TypeScript e Tailwind**.
 
 Pacotes:
 
